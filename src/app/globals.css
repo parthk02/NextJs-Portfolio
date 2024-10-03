@@ -39,3 +39,11 @@ body {
   animation: gradient-xy 5s ease infinite;
   background-size: 200% 200%; 
 }
+/* styles/globals.css */
+
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  color: white; /* Optional: To ensure text is visible */
+}

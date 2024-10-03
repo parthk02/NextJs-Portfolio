@@ -50,7 +50,7 @@ export const Navbar = () => {
             </li>
           ))}
           <li>
-            <a>
+            <a href="#contact">
               <h1 className="text-lg font-bold text-white/70 cursor-pointer">
                 Contact Me
               </h1>
